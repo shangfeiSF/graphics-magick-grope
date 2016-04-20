@@ -1,0 +1,24 @@
+{
+  "name": "graphics-magick-grope",
+  "version": "1.0.0",
+  "description": "JavaScript, GraphicsMagick, Nodejs, Image, demo",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "colors": "^0.6.2",
+    "gm": "^1.22.0",
+    "nopt": "^3.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shangfeiSF/graphics-magick-grope.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "GraphicsMagick",
+    "Nodejs",
+    "Image",
+    "demo"
+  ],
+  "author": "shangfeiSF",
+  "license": "ISC"
+}
