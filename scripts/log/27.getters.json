@@ -10,7 +10,7 @@
   ],
   "census": [
     {
-      "image": "d:\\xiaoshao\\emmamoon\\nodejs-grope\\13.gm\\imgs\\src\\original.png",
+      "image": "d:\\xiaoshao\\github\\graphics-magick-grope\\imgs\\src\\original.png",
       "info": {
         "size": {
           "width": 460,
@@ -69,7 +69,7 @@
           "Software": "gnome-screenshot",
           "Signature": "11b879efa9022cefbc124100a4113037a20db08116d1fac46a70e4df0fd98f66",
           "Tainted": "False",
-          "path": "d:\\xiaoshao\\emmamoon\\nodejs-grope\\13.gm\\imgs\\src\\original.png"
+          "path": "d:\\xiaoshao\\github\\graphics-magick-grope\\imgs\\src\\original.png"
         },
         "format": "PNG",
         "depth": "8",
@@ -78,7 +78,7 @@
       }
     },
     {
-      "image": "d:\\xiaoshao\\emmamoon\\nodejs-grope\\13.gm\\imgs\\src\\original.jpg",
+      "image": "d:\\xiaoshao\\github\\graphics-magick-grope\\imgs\\src\\original.jpg",
       "info": {
         "size": {
           "width": 460,
@@ -139,7 +139,7 @@
           "JPEG-Sampling-factors": "2x2,1x1,1x1",
           "Signature": "e75ac7b76a883616f381dd18e16c3f22792de6536909301c8bca2693dea0b509",
           "Tainted": "False",
-          "path": "d:\\xiaoshao\\emmamoon\\nodejs-grope\\13.gm\\imgs\\src\\original.jpg"
+          "path": "d:\\xiaoshao\\github\\graphics-magick-grope\\imgs\\src\\original.jpg"
         },
         "format": "JPEG",
         "depth": "8",
